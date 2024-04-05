@@ -25,7 +25,7 @@ export default function Footer() {
           <div className="md:flex md:items-center md:justify-between">
 
             {/* Copyrights note */}
-            <div className="text-gray-400 text-sm mr-4">&copy; eastasiahk.com; All rights reserved.</div>
+            <div className="text-gray-400 text-sm mr-4">&copy; easiahk.com; All rights reserved.</div>
 
           </div>
 
